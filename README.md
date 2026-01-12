@@ -1,135 +1,90 @@
-# Poorna Manohar | Software Engineer
+# 👨‍💻 Poorna Manohar  
+**Software Engineer | Full-Stack Developer**  
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Portfolio-0071e3?style=for-the-badge&logo=vercel&logoColor=white)]([https://poorna-manohar.vercel.app](https://portfolio-rho-nine-ukk9wyyy0t.vercel.app/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poorna-manohar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoornaManohar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poornamanohar754@gmail.com)
-
-**Building production-grade applications with modern JavaScript ecosystems**
-
-</div>
+📧 `poornamanohar754@gmail.com`  
+📍 Visakhapatnam, India  
+📱 `+91 6301232334`  
+🔗 [Portfolio](#) *(coming soon)*  
 
 ---
 
-## 📋 Professional Summary
+## 👋 About Me  
 
-Software Engineer specializing in full-stack development with expertise in React, Node.js, and cloud-native architectures. Proven track record of delivering scalable applications with emphasis on performance, maintainability, and user experience.
-
-**Core Focus:** Full-Stack Development • System Architecture • API Design • Cloud Deployment
+I'm an early-career software engineer with hands-on experience building real-world, user-facing applications. I have a strong foundation in JavaScript and full-stack development using **React, Node.js, Express, and MongoDB**. Passionate about creating scalable, clean, and efficient solutions, I'm focused on full-stack product development, REST APIs, and cloud-deployed applications. Currently seeking an entry-level software engineering role in a product-driven team.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack  
 
-| Frontend | Backend | Databases | DevOps |
-|----------|---------|-----------|---------|
-| React 18+ | Node.js | MongoDB | Docker |
-| TypeScript | Express.js | PostgreSQL | AWS |
-| Next.js | REST APIs | MySQL | Vercel |
-| Tailwind CSS | GraphQL | Redis | GitHub Actions |
-| Redux/Context API | JWT/OAuth | Mongoose | Nginx |
+### **Programming Languages**  
+`JavaScript (ES6+)` · `Java` · `C/C++`  
 
----
+### **Frontend**  
+`React.js` · `HTML5` · `CSS3` · `Tailwind CSS` · `Responsive Design`  
 
-## 🏢 Professional Experience
+### **Backend**  
+`Node.js` · `Express.js` · `REST APIs` · `JWT Authentication`  
 
-### **Web Developer** | Slash Mark
-*Dec 2023 – Mar 2024*
+### **Databases**  
+`MongoDB` · `MySQL`  
 
-- Developed front-end components using **ReactJS**, improving application performance by 40%
-- Implemented scalable UI components used across product features
-- Collaborated with cross-functional teams on technical requirements
-- Conducted code reviews and established development best practices
-- Optimized UI rendering time by 60% through performance improvements
+### **Tools & Platforms**  
+`Git` · `GitHub` · `Postman` · `Vercel` · `WebSockets`  
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Experience  
 
-### **🏨 StayScape | Hotel Management Platform**
-*Full-stack Application*
-
-[**Live Demo**](https://stay-scape-bice.vercel.app) • [**Source Code**](https://github.com/PoornaManohar/StayScape)
-
-**Tech Stack:** React • Node.js • Express • MongoDB • Tailwind CSS • JWT
-
-**Key Features:**
-- Real-time booking system with availability checking
-- Separate user/owner interfaces with role-based access
-- Responsive booking flow with property browsing
-- Owner dashboard for listing management
-- Deployed on Vercel with full CI/CD pipeline
-
-### **💬 Real-time Chat Application**
-*Full-stack Application*
-
-[**Source Code**](https://github.com/PoornaManohar/Real-time-chat-application)
-
-**Tech Stack:** React • Node.js • Express • MongoDB • WebSockets
-
-**Key Features:**
-- Real-time messaging with WebSocket connections
-- Responsive chat interface with modern UX
-- User authentication and session management
-- Message history and delivery status
+### **Web Developer** · *Slash Mark* · `Dec 2023 – Mar 2024`  
+- Developed and maintained front-end components using **ReactJS**.  
+- Wrote efficient, clean code in **HTML, CSS, and JavaScript**.  
+- Collaborated with cross-functional teams to enhance software solutions.  
+- Debugged UI and interaction issues, improving performance and usability.  
 
 ---
 
-## 📊 Development Philosophy
+## 🎓 Education  
 
-### **Engineering Principles**
-1. **Code Quality First:** Maintainable, tested, and documented code
-2. **Performance-Driven:** Optimize for speed and efficiency
-3. **User-Centric Design:** Technical decisions based on user impact
-4. **Continuous Improvement:** Regular refactoring and tech debt management
+### **B.Tech in Computer Science & Engineering**  
+*Vignan's Institute of Information Technology* · `Mar 2020 – Aug 2024`  
 
-### **Development Practices**
-- **Agile Methodology:** Two-week sprints with clear deliverables
-- **Test-Driven Development:** 90%+ test coverage for critical paths
-- **Code Reviews:** Collaborative development with constructive feedback
-- **Documentation:** Comprehensive docs for APIs and components
+### **Intermediate: MPC**  
+*Trunnala Jr. College* · `Jan 2018 – Jan 2020`  
 
 ---
 
-## 🎓 Education
+## 🚀 Projects  
 
-### **B.Tech Computer Science & Engineering**
-*Vignan's Institute of Information Technology* • *2020 – Present*
+### **StayScape – Full Stack Hotel Booking & Management Platform**  
+A complete hotel booking system with separate user and owner interfaces.  
+- Built responsive booking flow for browsing properties, checking availability, and placing bookings.  
+- Developed owner dashboard for managing property listings and customer bookings.  
+- Designed **MongoDB schemas** for users, hotels, and bookings.  
+- Deployed on **Vercel** with full frontend-backend integration.  
+**Tech:** `React.js` · `Tailwind CSS` · `Node.js` · `Express.js` · `JWT` · `MongoDB`  
 
-**Specialization:** Full-Stack Development & Cloud Computing  
-**Relevant Coursework:** Data Structures, Algorithms, Database Systems, Web Technologies, Cloud Computing
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoornaManohar&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PoornaManohar&layout=compact&theme=dark&hide_border=true)
-
-</div>
+### **Realtime Chat App**  
+A full-stack real-time chat application enabling instant communication between users.  
+- Implemented real-time messaging using **WebSockets** for low-latency communication.  
+- Developed backend services with **Node.js & Express.js** to handle socket events and message flow.  
+- Integrated **MongoDB** for persistent storage of user data and chat messages.  
+**Tech:** `React.js` · `Node.js` · `Express.js` · `MongoDB` · `WebSockets`  
 
 ---
 
-## 📬 Let's Connect
+## 📈 GitHub Stats  
 
-I'm currently exploring opportunities for **Software Engineer** positions where I can contribute to challenging problems and grow with innovative teams.
-
-**Availability:** Open to full-time roles, contract positions, and technical consultations.
-
-<div align="center">
-
-[![Schedule Call](https://img.shields.io/badge/Schedule_30min_Call-0071e3?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/poornamanohar)
-[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
+![Poorna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)  
 
 ---
 
-**"The function of good software is to make the complex appear simple." – Grady Booch**
+## 📫 Let's Connect  
 
-© 2024 Poorna Manohar
+- **Email:** [poornamanohar754@gmail.com](mailto:poornamanohar754@gmail.com)  
+- **Phone:** [+91 6301232334](tel:+916301232334)  
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- **GitHub:** [Your GitHub](https://github.com/yourusername)  
 
-</div>
+---
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*  
